@@ -10,4 +10,3 @@ third flow:
 fourth flow:
 ![Uploading flow_fouth.PNG…]()
 final result:
-![Uploading result.PNG…]()
