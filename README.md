@@ -8,5 +8,5 @@ second flow:
 third flow:
 ![flow_third](https://user-images.githubusercontent.com/83129774/158261831-add1fcfb-169d-4234-b83f-acb490719662.PNG)
 fourth flow:
-![Uploading flow_fouth.PNG…]()
+
 final result:
